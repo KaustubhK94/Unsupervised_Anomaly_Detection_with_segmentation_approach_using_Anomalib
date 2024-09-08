@@ -93,21 +93,21 @@ Below are some W&B plots from the project:
 <table>
   <tr>
     <td>
-      <img src="/W&B Chart 9_8_2024, 2_59_45 PM.png" width="400"/>
+      <img src="Metrics Monitered/W&B Chart 9_8_2024, 2_59_45 PM.png" width="400"/>
       <p><strong>Plot 1:</strong> Train Loss Epoch</p>
     </td>
     <td>
-      <img src="/W&B Chart 9_8_2024, 2_59_56 PM.png" width="400"/>
+      <img src="Metrics Monitered/W&B Chart 9_8_2024, 2_59_56 PM.png" width="400"/>
       <p><strong>Plot 2:</strong> PIXEL_AUROC</p>
     </td>
   </tr>
   <tr>
     <td>
-      <img src="/W&B Chart 9_8_2024, 3_00_16 PM.png" width="400"/>
+      <img src="Metrics Monitered/W&B Chart 9_8_2024, 3_00_16 PM.png" width="400"/>
       <p><strong>Plot 3:</strong> Image_AUROC</p>
     </td>
     <td>
-      <img src="/W&B Chart 9_8_2024, 3_00_04 PM.png" width="400"/>
+      <img src="Metrics Monitered/W&B Chart 9_8_2024, 3_00_04 PM.png" width="400"/>
       <p><strong>Plot 4:</strong> Epochs</p>
     </td>
   </tr>
