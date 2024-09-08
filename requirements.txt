@@ -1,0 +1,7 @@
+torch==2.0.0
+pytorch-lightning==2.4.0
+anomalib==0.7.0
+matplotlib==3.7.1
+Pillow==9.5.0
+wandb==0.17.9
+OpenVINO==2024.3.0
