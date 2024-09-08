@@ -93,7 +93,7 @@ Below are some W&B plots from the project:
 <table>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/KaustubhK94/Unsupervised_Anomaly_Detection_segmentation_approach_Anomalib/master/Metrics%20Monitered/W&B%20Chart%209_8_2024,%202_59_45%20PM.png" width="400"/>
+      <img src="Metrics Monitered/W&B%20Chart%209_8_2024,%202_59_45%20PM.png" width="400"/>
       <p><strong>Plot 1:</strong> Train Loss Epoch</p>
     </td>
     <td>
