@@ -24,7 +24,7 @@ The FastFlow model was used for training. FastFlow is a deep learning model desi
 
 
 ## Training ##
-The model was trained using the generated binary masks and defect images. The training process was managed using Weights & Biases for logging and monitoring.
+The model was trained using the generated binary masks and defect images. The training process was managed using **Weights & Biases** for logging and monitoring.
 
 ## Installation ##
 
