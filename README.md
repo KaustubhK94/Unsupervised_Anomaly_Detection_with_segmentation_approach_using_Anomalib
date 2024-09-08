@@ -82,7 +82,7 @@ Here is a sample image from the dataset:
 - **Images with defects:** [Fabric_defect/](./Fabric_defect/)
 - **Binary masks:** [Binary_masks/](./Binary_masks/)
 - **Dataset in COCO format:** [Fabric_defects.v4i.coco-segmentation/](./Fabric_defects.v4i.coco-segmentation/)
-- **Trained model weights:** [best-model-v1.ckpt](./best-model-v1.ckpt)
+- **Trained model weights:** [best-model-v1.ckpt](.Weights/best-model-v1.ckpt)
 
 ![](/Fabric20.jpg)
 
