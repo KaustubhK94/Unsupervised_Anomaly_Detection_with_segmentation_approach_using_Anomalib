@@ -32,8 +32,8 @@ To set up the environment for this project, follow these steps:
 1. ## Clone the Repository: ##
 
    ```bash
-   git clone https://github.com/KaustubhK94/.git
-   cd Unsupervised_Anomaly_Detection_segmentation_approach_Anomalib
+   git clone https://github.com/KaustubhK94/Unsupervised_Anomaly_Detection_with_segmentation_approach_using_Anomalib.git
+   cd Unsupervised_Anomaly_Detection_with_segmentation_approach_using_Anomalib
    ```
 2. ## Create A Virtual Environment(Optional): ##
    ```bash
