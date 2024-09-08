@@ -1,5 +1,4 @@
-# Unsupervised Anomaly Detection Segmentation Approach with Anomalib
-
+# Unsupervised_Anomaly_Detection_with_segmentation_approach_using_Anomalib
 
 Anomalib is a Deep learning library Collection of the state of the art anomaly detection algorithms. 
 The Task was assigned to me during an interview process several images of fabrics with defects were given and was asked to perform unsupervised anomaly detection with segmentation approach. Ensure that your environment is CUDA enabled.
@@ -33,7 +32,7 @@ To set up the environment for this project, follow these steps:
 1. ## Clone the Repository: ##
 
    ```bash
-   git clone https://github.com/KaustubhK94/Unsupervised_Anomaly_Detection_segmentation_approach_Anomalib.git
+   git clone https://github.com/KaustubhK94/.git
    cd Unsupervised_Anomaly_Detection_segmentation_approach_Anomalib
    ```
 2. ## Create A Virtual Environment(Optional): ##
